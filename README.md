@@ -1,13 +1,12 @@
 👋 Hi, I'm Karthick Raja
 
-🎓 ECE Student
-🐍 Python Developer
-📊 Aspiring Data & AI Engineer
+Python Developer| Aspiring Data & AI Engineer| ECE Undergraduate (2022-2026)
 
 I enjoy building data-driven applications and continuously improving my skills in Python, SQL, and Machine Learning.
+Focused on building logic-driven and data-centric systems.
 
-🚀 Featured Project
-🏏 Fantasy Cricket Team Management Application
+## 🚀 Featured Project
+### Fantasy Cricket Team Management Application
 
 Built using Python, PyQt5, and SQLite with:
 
