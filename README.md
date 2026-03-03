@@ -1,4 +1,4 @@
-👋 Hi, I'm Karthick Raja
+##👋 Hi, I'm Karthick Raja
 
 Python Developer| Aspiring Data & AI Engineer| ECE Undergraduate (2022-2026)
 
